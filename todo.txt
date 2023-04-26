@@ -4,7 +4,15 @@ TODO:
 - [x] Initialize the project with `npm init`
 - [x] Install necessary dependencies (`express`, `axios`, `mongoose`, `ejs`)
 - [x] Create README file
-- [ ] Set up file structure (models, views, routes)
+- [x] Set up file structure (models, views, routes)
+- [ ] Create character model
+- [ ] Create house model
+- [ ] Create character routes
+- [ ] Create house routes
+- [ ] Create character index view
+- [ ] Create character show view
+- [ ] Create house index view
+- [ ] Create house show view
 - [ ] Retrieve data from Game of Thrones API and store it in MongoDB database
 - [ ] Create index page that displays a list of characters from a specific season or episode
 - [ ] Create character page that displays information about a specific character
