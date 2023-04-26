@@ -1,6 +1,6 @@
 # The Westeros Who's Who
 
-This is a Node.js application that utilizes the Game of Thrones API to display information about characters, houses, and locations in the Game of Thrones universe.
+This is a Node.js application that utilizes the Game of Thrones API to display information about characters, houses, and books in the Game of Thrones universe.
 
 ## Getting Started
 
@@ -19,8 +19,8 @@ The application currently supports the following features:
 - Display information about a specific character.
 - Display a list of houses.
 - Display information about a specific house.
-- Display a list of locations.
-- Display information about a specific location.
+- Display a list of books.
+- Display information about a specific book.
 
 ## Technologies Used
 
