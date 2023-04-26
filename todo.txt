@@ -5,14 +5,31 @@ TODO:
 - [x] Install necessary dependencies (`express`, `axios`, `mongoose`, `ejs`)
 - [x] Create README file
 - [x] Set up file structure (models, views, routes)
-- [ ] Create character model
-- [ ] Create house model
-- [ ] Create character routes
-- [ ] Create house routes
+- [x] Create character model
+- [x] Create house model
+- [x] Create book model
+- [x] Create index.js to set up initial routes
+- [x] Create character route to get all characters
+- [x] Create character route to get specific character by Id
+- [ ] Create character route to add new character
+- [ ] Create character route to update existing character
+- [ ] Create character route to delete a character
+- [ ] Create house route to get all houses
+- [ ] Create house route to get specific house by Id
+- [ ] Create house route to add new house
+- [ ] Create house route to update existing house
+- [ ] Create house route to delete a house
+- [ ] Create book route to get all books
+- [ ] Create book route to get specific book by Id
+- [ ] Create book route to add new book
+- [ ] Create book route to update existing book
+- [ ] Create book route to delete a book
 - [ ] Create character index view
 - [ ] Create character show view
 - [ ] Create house index view
 - [ ] Create house show view
+- [ ] Create book index view
+- [ ] Create book show view
 - [ ] Retrieve data from Game of Thrones API and store it in MongoDB database
 - [ ] Create index page that displays a list of characters from a specific season or episode
 - [ ] Create character page that displays information about a specific character
