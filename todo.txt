@@ -1,0 +1,21 @@
+TODO:
+
+- [x] Create a new Node.js project
+- [x] Initialize the project with `npm init`
+- [x] Install necessary dependencies (`express`, `axios`, `mongoose`, `ejs`)
+- [x] Create README file
+- [ ] Set up file structure (models, views, routes)
+- [ ] Retrieve data from Game of Thrones API and store it in MongoDB database
+- [ ] Create index page that displays a list of characters from a specific season or episode
+- [ ] Create character page that displays information about a specific character
+- [ ] Create house page that displays information about a specific house
+- [ ] Create location page that displays information about a specific location
+- [ ] Add navigation links to index page
+- [ ] Add styling to pages using CSS
+- [ ] Create a search bar to search for characters, houses, and locations
+- [ ] Add pagination to index page
+- [ ] Add tests for routes and models
+- [ ] Deploy application to ???
+
+STRETCH:
+- [ ] Add sorting and filtering options to index page
